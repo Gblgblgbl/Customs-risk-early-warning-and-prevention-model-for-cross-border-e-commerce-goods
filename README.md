@@ -77,6 +77,8 @@ The collection of standard samples and random samples is shown in the following 
 | 15            | 0.39420297            | 0.4279               | -0.03369703    |
 | 16            | 0.25823946            | 0.1962               | 0.06203946     |
 | 17            | 0.253266758           | 0.2069               | 0.046366758    |
+
+The comparison of the risk inspection sample results and the actual operation results of cross-border e-commerce goods is shown in the table. It can be found that the inspection samples are very close to the actual operation evaluation values. This training model maintains a high accuracy rate. Therefore, the trained BP neural network early warning model can be applied to the risk early warning of real cross-border e-commerce goods, providing a scientific theoretical basis for risk management decision makers and has strong practical value.
 # Contact
 Zhang Shuhan,Undergraduate student of Shanghai Customs University(zhangshuhan1031@163.com)
 
